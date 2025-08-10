@@ -105,10 +105,6 @@ Your web browser will automatically open to the application's URL (usually `http
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## API Keys
 
 To use this application, you'll need API keys for:
